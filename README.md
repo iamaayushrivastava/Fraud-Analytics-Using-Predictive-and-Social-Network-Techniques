@@ -57,7 +57,7 @@ To get started with the repository, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Fraud-Analytics-Using-Predictive-and-Social-Network-Techniques.git
+   git clone https://github.com/iamaayushrivastava/Fraud-Analytics-Using-Predictive-and-Social-Network-Techniques.git
    cd Fraud-Analytics-Using-Predictive-and-Social-Network-Techniques
    ```
 
