@@ -76,11 +76,11 @@ To get started with the repository, follow these steps:
 
 Each task is implemented in a separate directory with detailed instructions on how to run the code. Below are the brief instructions for each task:
 
-- **Cluster Identification**: Navigate to the `clustering` directory and run the provided Jupyter notebooks to execute Node2Vec, Spectral Clustering, and GCN embeddings.
-- **Implementation of Trust Rank**: Go to the `trust_rank` directory and follow the instructions in the README to run the Pregel-based Trust Rank implementation.
-- **Example-dependent Cost-sensitive Regression**: Enter the `cost_sensitive_regression` directory and run the scripts to perform example-dependent cost-sensitive regression.
-- **Fraud Detection Using Autoencoder and Variational Autoencoder**: Access the `autoencoders` directory to find implementations and run the provided notebooks for fraud detection.
-- **Synthetic Data Generation Using Variational Autoencoder**: In the `synthetic_data_generation` directory, follow the instructions to generate synthetic data using VAEs.
+- **Cluster Identification**: Navigate to the `ClusterIdentification` directory and run the provided Jupyter notebooks to execute Node2Vec, Spectral Clustering, and GCN embeddings.
+- **Implementation of Trust Rank**: Go to the `TrustRank` directory and follow the instructions in the README to run the Pregel-based Trust Rank implementation.
+- **Example-dependent Cost-sensitive Regression**: Enter the `CostSensitiveRegression` directory and run the scripts to perform example-dependent cost-sensitive regression.
+- **Fraud Detection Using Autoencoder and Variational Autoencoder**: Access the `Autoencoders` directory to find implementations and run the provided notebooks for fraud detection.
+- **Synthetic Data Generation Using Variational Autoencoder**: In the `SyntheticDataGeneration` directory, follow the instructions to generate synthetic data using VAEs.
 
 ## Contributing
 
