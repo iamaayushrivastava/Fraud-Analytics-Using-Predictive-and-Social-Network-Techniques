@@ -42,7 +42,7 @@ This task involves implementing example-dependent cost-sensitive regression base
 
 ### Fraud Detection Using Autoencoder and Variational Autoencoder
 
-Two deep learning techniques will be employed for fraud detection:
+Two deep-learning techniques will be employed for fraud detection:
 
 1. **Autoencoder**: This neural network architecture is used to learn a compressed representation of the data, and any significant deviations from the reconstructed data can indicate fraud.
 2. **Variational Autoencoder (VAE)**: VAEs add a probabilistic twist to autoencoders, enabling them to generate new data samples. They can be used for both anomaly detection and synthetic data generation.
